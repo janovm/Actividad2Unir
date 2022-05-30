@@ -1,0 +1,35 @@
+IC001
+Problema aplicación Out
+en progreso
+2/3/2020
+null
+Andrés Quirón Pérez
+0.0
+IC002
+Problema en disco
+en progreso
+7/4/2021
+null
+Andrés Quirón Pérez
+0.0
+IC003
+Problema en SharePoint
+en progreso
+7/4/2021
+null
+Alberto Jiménez García
+0.0
+IC004
+Problema en SharePoint
+cerrada
+8/4/2021
+null
+Alberto Jiménez García
+120.0
+IC005
+Problema en Adobe
+abierta
+7/4/2021
+null
+Andrés Quirón Pérez
+0.0
